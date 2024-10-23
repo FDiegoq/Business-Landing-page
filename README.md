@@ -1,2 +1,8 @@
-# Business-Landing-page
-This repository features a professional landing page designed for a business, built using React and styled with Tailwind CSS. The project aims to demonstrate effective front-end development skills while creating a visually appealing and responsive user experience.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
